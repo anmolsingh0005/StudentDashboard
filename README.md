@@ -44,6 +44,8 @@ If not then go to browser and write url http://localhost:3000/
 
 and create a new env file in both the directories frontend and backend and the env files I have shared on chat
 
+this is the hosted link of the server -> https://studentdashboard-production.up.railway.app/api/v1
+
 I think that you will be able to see the websie in your local.
 
 If you have any doubt please contact me;
