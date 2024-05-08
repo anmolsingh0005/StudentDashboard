@@ -1,0 +1,10 @@
+.ant-spin-nested-loading{
+    width: unset;
+}
+
+@media screen and (max-width: 768px) {
+    .ant-spin-nested-loading{
+        width: max-content;
+    }
+    
+}

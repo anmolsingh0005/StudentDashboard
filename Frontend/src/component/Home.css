@@ -1,0 +1,21 @@
+.disabled-row {
+    cursor: not-allowed !important; 
+    opacity: 0.5; 
+  }
+
+
+ 
+  @media screen and (max-width: 1200px){
+    .dashboardheader{
+      display: block !important;
+    }
+  
+    .activitystatus{
+      width:100% !important;
+      text-align: center !important;
+    }
+  
+    .barchart{
+      width:100% !important;
+    }
+  }
