@@ -1,6 +1,6 @@
-Hi All this my prject repository to get start using my website follow the belo instructions:
+Hi All this my prject repository to get start using my website follow the below instructions:
 
-this is the hosted link of the website you can check https://student-dashboard001.netlify.app/
+this is the hosted link of the website you can check https://studentdashboard0001.netlify.app/
 
 If you want to clone my repository then you can go to my repository link https://github.com/anmolsingh0005/StudentDashboard/
 
